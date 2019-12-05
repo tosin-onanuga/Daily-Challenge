@@ -1,7 +1,26 @@
-to create a directory named my-folder  ==   mkdir my-folder
- 
-to create a file named index.html  ==   nul > index.html
- 
-to check your current working directory ==  dir
- 
-to list the contents of your current working directory 
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+
+
+    <h2>Create a dir "my-folder" </h2>
+    <p> Command ... "mkdir my-folder" </p>
+
+    <h2>Create a file "index.html" </h2>
+    <p> Command ... "index.html" </p>
+
+    <h2> Check current dir </h2>
+    <p> Command .. "dir" </p>
+
+    <h2> Listing dir Content </h2>
+    <p> Command ... "ls" </p>
+  </body>
+</html>
